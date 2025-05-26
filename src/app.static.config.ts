@@ -1,7 +1,7 @@
 export const appStaticConfig = {
   ai: {
     summary: {
-      enabled: false,
+      enabled: true,
       // providers: ['openai', 'xlog'],
       providers: ['xlog'],
     },
